@@ -281,8 +281,8 @@ That is all that is required for this milestone. See the `ADVANCED.md` file if y
 Item # | Description | Completed
 --- | --- | ---
 1a | 1st Favorite emoji | 😀
-1b | Link to `commit #1 from Github.com` |
-1c | Link to markdown tables docs |
+1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/yuahmed/learn-git-milestones/commit/09d3096364f3d3f903f9d90d022cee304cb48eac)
+1c | Link to markdown tables docs | [Using Markdown Tables] (https://www.makeuseof.com/tag/create-markdown-table/)
 1d | What does `log` do? |
 2a | 2nd Favorite emoji |
 2b | Link to `commit #2 from Github Desktop` |
