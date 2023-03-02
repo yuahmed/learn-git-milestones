@@ -285,7 +285,7 @@ Item # | Description | Completed
 1c | Link to markdown tables docs | [Using Markdown Tables](https://www.makeuseof.com/tag/create-markdown-table/)
 1d | What does `log` do? | Displays commit history and changes and shows repo status. 
 2a | 2nd Favorite emoji | 🙌
-2b | Link to `commit #2 from Github Desktop` | 
+2b | Link to `commit #2 from Github Desktop` | [Commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/8e3adedaa8fb83bb357c47feff45bb22479af54d) 
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
