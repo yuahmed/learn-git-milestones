@@ -286,12 +286,12 @@ Item # | Description | Completed
 1d | What does `log` do? | Displays commit history and changes and shows repo status. 
 2a | 2nd Favorite emoji | 🙌
 2b | Link to `commit #2 from Github Desktop` | [Commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/8e3adedaa8fb83bb357c47feff45bb22479af54d) 
-2c | Full path to your working directory | /c/Users/yumna/OneDrive/Documents/GitHub/learn-git-milestones
+2c | Full path to your working directory | /c/Users/yumna/OneDrive - Davidson College/Documents/SPRING 2023/DIG 250/GitHub/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [Commit #3 from CLI](https://github.com/omundy/learn-git-milestones/commit/91848abe6e9accc60069132c408bcbeb10dab672)
 2e | 3rd Favorite emoji | 😳
 2f | Link to `commit #4 from VS Code` | [Commit #4 from VS Code](https://github.com/yuahmed/learn-git-milestones/commit/cc2f81ed604da3d505b619d3ad587f3262bfc3f1)
-3a | Link to `my-awesome-project` github.com repo page |
-4a | Link to `my-awesome-project` github.io "project site" |
+3a | Link to `my-awesome-project` github.com repo page | [my-awesome-project](https://github.com/yuahmed/my-awesome-project)
+4a | Link to `my-awesome-project` github.io "project site" | [my-awesome-project](https://yuahmed.github.io/my-awesome-project/)
 
 
 
