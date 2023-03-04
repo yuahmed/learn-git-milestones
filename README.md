@@ -288,7 +288,7 @@ Item # | Description | Completed
 2b | Link to `commit #2 from Github Desktop` | [Commit #2 from Github Desktop](https://github.com/omundy/learn-git-milestones/commit/8e3adedaa8fb83bb357c47feff45bb22479af54d) 
 2c | Full path to your working directory | /c/Users/yumna/OneDrive/Documents/GitHub/learn-git-milestones
 2d | Link to `commit #3 from CLI` | [Commit #3 from CLI](https://github.com/omundy/learn-git-milestones/commit/91848abe6e9accc60069132c408bcbeb10dab672)
-2e | 3rd Favorite emoji |  
+2e | 3rd Favorite emoji | 😳
 2f | Link to `commit #4 from VS Code` |
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
